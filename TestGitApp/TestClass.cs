@@ -8,5 +8,7 @@ namespace TestGitApp
 {
     class TestClass
     {
+       public int EmpId { get; set; };
+
     }
 }
