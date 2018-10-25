@@ -1,0 +1,7 @@
+C:\Users\amar.satpute\Projects\TestGitApp\TestGitApp\bin\Debug\TestGitApp.exe.config
+C:\Users\amar.satpute\Projects\TestGitApp\TestGitApp\bin\Debug\TestGitApp.exe
+C:\Users\amar.satpute\Projects\TestGitApp\TestGitApp\bin\Debug\TestGitApp.pdb
+C:\Users\amar.satpute\Projects\TestGitApp\TestGitApp\obj\Debug\TestGitApp.csprojAssemblyReference.cache
+C:\Users\amar.satpute\Projects\TestGitApp\TestGitApp\obj\Debug\TestGitApp.csproj.CoreCompileInputs.cache
+C:\Users\amar.satpute\Projects\TestGitApp\TestGitApp\obj\Debug\TestGitApp.exe
+C:\Users\amar.satpute\Projects\TestGitApp\TestGitApp\obj\Debug\TestGitApp.pdb
